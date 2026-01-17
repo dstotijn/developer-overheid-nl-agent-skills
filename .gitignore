@@ -1,1 +1,22 @@
+# IDE
 .cursor
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Claude Code local config
+.claude/
