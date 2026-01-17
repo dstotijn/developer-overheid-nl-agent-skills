@@ -80,4 +80,4 @@ for skill in skills/don-*/; do uv run skills-ref validate "$skill"; done
 
 ## License
 
-Content is sourced from developer.overheid.nl and subject to their licensing terms.
+[EUPL-1.2](LICENSE) - Content is sourced from [developer.overheid.nl](https://developer.overheid.nl).
