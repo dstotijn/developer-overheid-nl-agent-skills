@@ -1,0 +1,6 @@
+{
+  "name": "developer-overheid-nl-agent-skills",
+  "version": "0.1.0",
+  "description": "Dutch Government Developer Knowledge Base (developer.overheid.nl/kennisbank) - guidelines and standards for government software development",
+  "skills_dirs": ["skills"]
+}

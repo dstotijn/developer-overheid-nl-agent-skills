@@ -1,0 +1,27 @@
+[tools]
+  python = "3.11"
+  uv = "0.8.4"
+
+[settings]
+  python.uv_venv_auto = true
+
+[tasks.install]
+  description = "Install dependencies"
+  run = "uv sync"
+
+[tasks.sync]
+  description = "Sync DON kennisbank docs from GitHub"
+  run = "uv run python scripts/sync.py"
+
+[tasks.validate]
+  description = "Validate all skills"
+  run = """
+for skill in skills/*/; do
+  echo "Validating $skill..."
+  uv run skills-ref validate "$skill"
+done
+"""
+
+[tasks."validate:skill"]
+  description = "Validate a single skill (e.g., mise run validate:skill don-apis)"
+  run = "uv run skills-ref validate skills/$1"
