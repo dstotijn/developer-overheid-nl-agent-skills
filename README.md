@@ -17,18 +17,18 @@ Agent skills for the Dutch Government Developer Portal (developer.overheid.nl) k
 
 ## Installation
 
-Add this plugin to your Claude Code configuration:
+### Claude Code
 
-```bash
-claude mcp add-json don-skills '{"type": "plugin", "path": "/path/to/don-skills"}'
+First, install the [claude-marketplace](https://github.com/dstotijn/claude-marketplace) plugin:
+
+```
+/plugin marketplace add dstotijn/claude-marketplace
 ```
 
-Or add to your `.claude/plugins.json`:
+Then install this plugin via the `/plugin` command:
 
-```json
-{
-  "plugins": ["/path/to/don-skills"]
-}
+```
+/plugin install developer-overheid-nl-agent-skills@dstotijn/claude-marketplace
 ```
 
 ## Usage
