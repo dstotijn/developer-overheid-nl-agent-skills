@@ -31,6 +31,10 @@ Then install this plugin via the `/plugin` command:
 /plugin install developer-overheid-nl-agent-skills@dstotijn/claude-marketplace
 ```
 
+### Other
+
+This repository adheres to the [Agent Skills](https://agentskills.io/) specification. Refer to your IDE or coding agent documentation to learn how to install and use agent skills.
+
 ## Usage
 
 Sample prompts that trigger the skills:
