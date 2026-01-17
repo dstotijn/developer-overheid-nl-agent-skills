@@ -9,8 +9,6 @@ metadata:
 
 # DON Security
 
-Security standards and authentication tools for Dutch government software. Use when implementing DigiD, eHerkenning, OAuth, OIDC, PKIoverheid, or other Dutch government authentication and security standards.
-
 ## When to Use This Skill
 
 Use this skill when you need guidance on:

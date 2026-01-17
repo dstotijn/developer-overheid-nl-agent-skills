@@ -1,14 +1,11 @@
 # API Architectuur
 
 <!-- prettier-ignore -->
-:::info[Dit is een samenvatting van de Architectuur van de NL API Strategie van het Kennisplatform API's]
-
+> **Dit is een samenvatting van de Architectuur van de NL API Strategie van het Kennisplatform API's**
 Het volledige
 [Architectuurdocument](https://geonovum.github.io/KP-APIs/API-strategie-algemeen/Architectuur/)
 is vastgesteld en online gepubliceerd als onderdeel van het
 [Kennisplatform API's](https://developer.overheid.nl/communities/kennisplatform-apis/).
-
-:::
 
 ## Introductie
 

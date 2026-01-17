@@ -1,7 +1,6 @@
 # Foutmeldingen met Problem Details
 
-:::info[TL;DR]
-
+> **TL;DR**
 Problem JSON (`application/problem+json`) is een krachtige standaard voor het
 verbeteren van de foutafhandeling in API's en het bieden van een betere ervaring
 voor zowel developers als eindgebruikers.
@@ -11,8 +10,6 @@ voor zowel developers als eindgebruikers.
   use-cases.
 - Betere debugging: Clients krijgen meer context over fouten, wat helpt bij het
   oplossen van problemen.
-
-:::
 
 Problem JSON is een internetstandaard
 ([RFC 7807](https://datatracker.ietf.org/doc/html/rfc7807)) die een

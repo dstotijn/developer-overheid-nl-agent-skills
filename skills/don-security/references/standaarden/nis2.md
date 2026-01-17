@@ -9,8 +9,7 @@ EU-lidstaten te verbeteren. De NIS2-richtlijn vergroot de reikwijdte van de
 NIS-richtlijn door meer sectoren te omvatten. Ook stelt de richtlijn strengere
 beveiligingsnormen en meldingsvereisten voor incidenten.
 
-:::info[Nog niet van kracht]
-
+> **Nog niet van kracht**
 Op dit moment is NIS2
 [nog niet van kracht](https://www.ncsc.nl/over-ncsc/wettelijke-taak/wat-gaat-de-nis2-richtlijn-betekenen-voor-uw-organisatie).
 De verwachting is dat deze in het
@@ -19,8 +18,6 @@ in werking zal treden. Op de website van het NCSC kan je ondertussen wel al
 vinden
 [wat je alvast kunt doen](https://www.ncsc.nl/over-ncsc/wettelijke-taak/wat-gaat-de-nis2-richtlijn-betekenen-voor-uw-organisatie/hoe-kan-uw-organiseren-zich-voorbereiden-op-de-nis2-richtlijn)
 om voor te sorteren op de komst van NIS2.
-
-:::
 
 ## Cyberbeveiligingswet
 

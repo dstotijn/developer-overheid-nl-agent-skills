@@ -9,8 +9,6 @@ metadata:
 
 # DON Programmeertalen
 
-Programming language guidelines for Dutch government software. Use when choosing programming languages, setting up development environments, or following language-specific best practices for government projects.
-
 ## When to Use This Skill
 
 Use this skill when you need guidance on:

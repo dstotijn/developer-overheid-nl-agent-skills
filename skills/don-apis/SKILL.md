@@ -9,8 +9,6 @@ metadata:
 
 # DON APIs
 
-Dutch Government API design rules, OpenAPI specifications, and API architecture guidelines. Use when building REST APIs for Dutch government projects, creating OpenAPI specs, or implementing API design patterns like webhooks and event-driven architecture.
-
 ## When to Use This Skill
 
 Use this skill when you need guidance on:

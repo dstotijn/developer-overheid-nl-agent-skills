@@ -9,8 +9,6 @@ metadata:
 
 # DON Leidraad (NeRDS)
 
-NeRDS software development guidelines for Dutch government projects. Use when making architectural decisions, setting up CI/CD, implementing security practices, handling privacy requirements, or ensuring accessibility compliance in government software.
-
 ## When to Use This Skill
 
 Use this skill when you need guidance on:
@@ -27,6 +25,7 @@ This skill contains documentation organized by topic. Browse the references belo
 ## References
 
 - [index](references/index.md)
+- [Richtlijnsjabloon](references/richtlijnsjabloon-v1.md)
 
 ### Agile
 

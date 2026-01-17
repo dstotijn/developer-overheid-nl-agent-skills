@@ -9,8 +9,6 @@ metadata:
 
 # DON Open Source
 
-Open source standards and practices for Dutch government projects. Use when setting up an open source repository, choosing licenses, creating publiccode.yml, or following the Standard for Public Code.
-
 ## When to Use This Skill
 
 Use this skill when you need guidance on:
@@ -52,6 +50,7 @@ This skill contains documentation organized by topic. Browse the references belo
 - [index](references/tutorials/index.md)
 - [open-source-software-licenties](references/tutorials/open-source-software-licenties.md)
 - [Project launch checklist](references/tutorials/os-checklist.md)
+- [tutorial-repo-docs-generator](references/tutorials/tutorial-repo-docs-generator.md)
 - [voeg-een-publiccode-yml-bestand-toe](references/tutorials/voeg-een-publiccode-yml-bestand-toe.md)
 
 

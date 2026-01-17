@@ -7,17 +7,14 @@ verantwoord ontwikkelen, inkopen en gebruiken van digitale systemen binnen de
 Nederlandse overheid. Deze leidraad softwareontwikkeling bevat de NeRDS
 richtlijnen die specifiek van belang zijn voor ontwikkelaars.
 
-:::info[Beta]
-
+> **Beta**
 De richtlijnen van NeRDS zijn nog in ontwikkeling. Mis je een onderwerp,
 standaard, techniek of principe? Laat het ons weten via
 [Slack](https://codefornl.slack.com/archives/CFV4B3XE2) of
 [mail](mailto:developer.overheid@geonovum.nl). Wil je bijdragen aan dit project?
 Bekijk dan de
 [bijdragerichtlijnen van NeRDS](https://minbzk.github.io/NeRDS/production/Over-NeRDS/CONTRIBUTING/)
-voor meer informatie.
-
-:::
+voor meer informatie. Gebruik voor een nieuwe richtlijn het [richtlijnsjabloon](./richtlijnsjabloon-v1.md).
 
 De leidraad bevat de volgende principes:
 

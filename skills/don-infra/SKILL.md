@@ -9,8 +9,6 @@ metadata:
 
 # DON Infrastructure
 
-Infrastructure and deployment standards for Dutch government systems. Use when deploying to Haven (government Kubernetes), setting up FSC (Federated Service Connectivity), or checking infrastructure compliance.
-
 ## When to Use This Skill
 
 Use this skill when you need guidance on:

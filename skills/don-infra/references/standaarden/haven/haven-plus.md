@@ -9,12 +9,9 @@ doen:
 - Certificaatbeheer
 - Secret management
 
-:::info[Haven+ is in Beta]
-
+> **Haven+ is in Beta**
 Op dit moment is het Haven+ project nog in beta en kan het zijn dat je tegen
 bugs aanloopt.
-
-:::
 
 ## Aan de slag
 

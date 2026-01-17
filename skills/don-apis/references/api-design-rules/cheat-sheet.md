@@ -7,14 +7,11 @@ best practices om te gebruiken tijdens het ontwerpen van een API.
 
 ## Gebruik OpenAPI Specification
 
-:::warning[Verplichte standaard]
-
+> **Verplichte standaard**
 Naast dat deze regels onderdeel zijn van de API Design Rules, is het gebruik van
 de OpenAPI Specification ook een eigen verplichte standaard op de
 pas-toe-leg-uit-lijst bij Forum Standaardisatie:
 [https://www.forumstandaardisatie.nl/open-standaarden/openapi-specification](https://www.forumstandaardisatie.nl/open-standaarden/openapi-specification)
-
-:::
 
 - Bied een OpenAPI Specification aan waarin de API is gespecificeerd.
 - Het document dient in `JSON` formaat beschikbaar te zijn.

@@ -1,12 +1,9 @@
 # API Design Rules (ADR)
 
-:::info[Verplichte standaard]
-
+> **Verplichte standaard**
 Deze standaard is
 [verplicht voor REST API's](https://www.forumstandaardisatie.nl/open-standaarden/rest-api-design-rules)
 van de overheid.
-
-:::
 
 De REST API Design Rules (ADR) schrijven voor waar een REST API van de overheid
 aan moet voldoen. Een aantal van deze regels is tijdens het API design te testen

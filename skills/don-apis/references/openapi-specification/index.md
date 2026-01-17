@@ -1,12 +1,9 @@
 # OpenAPI Specification (OAS)
 
-:::info[Verplichte standaard]
-
+> **Verplichte standaard**
 Deze standaard is
 [verplicht voor REST API's](https://www.forumstandaardisatie.nl/open-standaarden/openapi-specification)
 van de overheid. Let op: momenteel wordt alleen OAS versie 3.0.x goedgekeurd.
-
-:::
 
 Met OAS kunnen alle endpoints, responses en requests van een API gedetailleerd
 beschreven worden in het machine-leesbare `YAML` of `JSON` formaat. De

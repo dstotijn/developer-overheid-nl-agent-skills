@@ -1,15 +1,12 @@
 # FSC (Federated Service Connectivity)
 
-:::info[TL;DR]
-
+> **TL;DR**
 De [FSC-standaard](https://fsc-standaard.nl) beschrijft hoe koppelingen voor
 gegevensuitwisseling veilig, transparant en beheersbaar kunnen worden opgezet.
 De standaard is opgenomen als verplicht onderdeel van het
 [Digikoppeling REST API profiel](https://gitdocumentatie.logius.nl/publicatie/dk/restapi/).
 Wil je direct met FSC aan de slag dan kan je de referentie implementatie
 [OpenFSC](https://docs.open-fsc.nl/) gebruiken.
-
-:::
 
 ## Standaardisatie in gegevensuitwisseling
 

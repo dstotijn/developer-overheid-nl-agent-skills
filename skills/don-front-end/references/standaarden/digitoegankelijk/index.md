@@ -1,12 +1,9 @@
 # DigiToegankelijk
 
-:::info[Verplichte standaard]
-
+> **Verplichte standaard**
 Deze standaard is
 [verplicht voor alle websites](https://www.digitoegankelijk.nl/wetgeving) van de
 overheid.
-
-:::
 
 Dit artikel heeft als doel om developers ondersteuning te bieden bij het
 implementeren van de standaard

@@ -9,8 +9,6 @@ metadata:
 
 # DON Data
 
-Data standards and practices for Dutch government applications. Use when working with government data formats, implementing data exchange standards, or ensuring data quality compliance.
-
 ## When to Use This Skill
 
 Use this skill when you need guidance on:

@@ -9,8 +9,6 @@ metadata:
 
 # DON Front-end
 
-Front-end development standards for Dutch government websites. Use when building accessible government web applications, implementing NL Design System components, or ensuring WCAG compliance.
-
 ## When to Use This Skill
 
 Use this skill when you need guidance on:

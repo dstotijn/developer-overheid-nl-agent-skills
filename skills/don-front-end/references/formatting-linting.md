@@ -14,8 +14,6 @@ stijlkeuzes is het slim om je code te linten en te formatten. Dit voorkomt
 **inconsistenties** en **bugs** in de codebase en maakt hem beter leesbaar. Een
 snelle en moderne tool die dit voor je doet is [**Biome**](#biome-1).
 
-:::
-
 Voordelen van formatting en linting zijn:
 
 - **✔️ Consistentie in de codebase**: je code ziet er overal hetzelfde uit,
@@ -293,15 +291,12 @@ Een tool zoals [Biome] die zowel formatting als linting combineert, kan de setup
 en het onderhoud van deze tools vereenvoudigen, waardoor teams sneller aan de
 slag kunnen met het handhaven van codekwaliteit.
 
-:::info[Tip]
-
+> **Tip**
 Ga je linting en formatting tools gebruiken in een bestaand project?
 Waarschijnlijk zullen veel bestanden aangepast worden door de tools. Het is aan
 te raden om deze wijzigingen in een aparte commit te plaatsen, en deze te mergen
 op een moment dat er weinig actieve ontwikkeling plaatsvindt. Zo voorkom je dat
 er veel merge-conflicten ontstaan met andere lopende werkzaamheden.
-
-:::
 
 [Prettier]: https://prettier.io/
 [ESLint]: https://eslint.org/

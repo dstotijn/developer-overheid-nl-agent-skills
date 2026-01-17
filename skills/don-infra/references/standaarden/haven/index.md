@@ -73,14 +73,11 @@ toch afhankelijk bent van platform-specifieke functionaliteit:
 - Op dat moment maak je zelf de keuze om een vendor-specifiek product te
   gebruiken, de Haven-standaard dwingt niet af dat je dit niet doet.
 
-:::info[Met Haven niet direct compleet soeverein]
-
+> **Met Haven niet direct compleet soeverein**
 Als je Haven-compliant bent, betekent dit niet direct dat je volledig
 platform-agnostisch bezig bent. De standaard staat het namelijk nog steeds toe
 om bijvoorbeeld platform specifieke functionaliteiten te gebruiken zoals
 `Azure Blob Storage` of `AWS S3 Buckets` voor file storage.
-
-:::
 
 ### [Haven+](./haven-plus): meer soevereiniteit door componenten als vervanging voor Azure/ AWS services
 

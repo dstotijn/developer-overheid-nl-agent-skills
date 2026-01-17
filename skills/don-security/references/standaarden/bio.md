@@ -7,14 +7,11 @@ richtlijnen biedt voor informatiebeveiliging binnen de Nederlandse overheid. Het
 dient als een gemeenschappelijke standaard die overheidsorganisaties helpt om de
 beveiliging van informatie en IT-systemen op orde te brengen en te houden.
 
-:::info[Verplichte standaard]
-
+> **Verplichte standaard**
 Op dit moment is
 [BIO 1.0](https://bio-overheid.nl/media/13kduqsi/bio-versie-104zv_def.pdf) van
 kracht. BIO 2.0 is
 [in ontwikkeling](https://minbzk.github.io/Baseline-Informatiebeveiliging-Overheid/).
-
-:::
 
 ## Waarom is de BIO in het leven geroepen?
 

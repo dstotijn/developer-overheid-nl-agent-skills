@@ -309,6 +309,24 @@ EUPL version.
 
 </details>
 
+### Voordelen EUPL
+
+- Is specifiek ontworpen voor de publieke sector in de EU.
+- Heeft copyleft-eigenschappen (afgeleid werk moet onder compatibele licentie).
+- Is beschikbaar in [alle EU-talen](https://eupl.eu/) met juridische geldigheid.
+- Heeft expliciet compatibiliteit met andere belangrijke open source licenties.
+  (GPL, AGPL, etc.).
+- Wordt ook aanbevolen in het Nederlandse overheidsbeleid.
+
+### Copyleft: voorkomt gesloten redistributie
+
+De EUPL-licentie is "copyleft". Dit betekent dat een partij jouw project niet
+mag kopiëren om de codebase vervolgens **gesloten** en in **eigen beheer** door
+te ontwikkelen. Een logische reden om dit te doen zou zijn om er een comercieeel
+product van te maken. Dit zou een ongewenst scenario kunnen zijn omdat je wilt
+dat iedereen die de code gebruikt ook terug contribueert aan het bestaande
+project, of in ieder geval diens versie weer open beschikbaar stelt.
+
 ## Moet ik in elke file de license vermelden?
 
 In veel projecten zie je dat aan het begin van elk bestand de licentie expliciet

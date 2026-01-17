@@ -154,6 +154,13 @@ def clean_mdx_content(content: str) -> str:
     # Remove export statements
     content = re.sub(r'^export\s+.*?$', '', content, flags=re.MULTILINE)
 
+    # Convert MDX admonitions (:::warning[title], :::note, etc.) to blockquotes
+    # Match opening with optional title: :::warning[Some Title] or :::note
+    content = re.sub(r'^:::(warning|note|tip|info|caution|danger)\[([^\]]*)\]\s*$', r'> **\2**', content, flags=re.MULTILINE | re.IGNORECASE)
+    content = re.sub(r'^:::(warning|note|tip|info|caution|danger)\s*$', r'> **\1:**', content, flags=re.MULTILINE | re.IGNORECASE)
+    # Remove closing :::
+    content = re.sub(r'^:::\s*$', '', content, flags=re.MULTILINE)
+
     # Clean up excessive blank lines
     content = re.sub(r'\n{3,}', '\n\n', content)
 
@@ -227,8 +234,6 @@ metadata:
 ---
 
 # {meta['title']}
-
-{meta['description']}
 
 ## When to Use This Skill
 

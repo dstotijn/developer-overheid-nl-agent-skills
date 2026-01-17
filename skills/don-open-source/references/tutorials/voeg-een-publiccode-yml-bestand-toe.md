@@ -1,11 +1,8 @@
 # Voeg een publiccode.yml toe met VSCode
 
-:::tip[**publiccode.yml editor beschikbaar**]
-
+> ****publiccode.yml editor beschikbaar****
 Werk jij liever in een web-editor? Dan kan je gebruik maken van de
 [Publiccode.yml Editor](https://publiccode-editor.developers.italia.it/?lang=nl)
-
-:::
 
 In deze tutorial leggen we uit hoe je met behulp van VSCode gemakkelijk een
 `publiccode.yml`-bestand kan toevoegen aan je project. Als je hier VSCode
